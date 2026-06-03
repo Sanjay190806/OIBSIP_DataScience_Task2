@@ -621,7 +621,7 @@ GitHub:
 https://github.com/Sanjay190806
 
 LinkedIn:
-(Add your LinkedIn profile link)
+www.linkedin.com/in/sanjaykaruppusamy
 
 ---
 
